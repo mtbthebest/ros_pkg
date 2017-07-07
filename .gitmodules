@@ -1,0 +1,3 @@
+[submodule "ros_pkg"]
+	path = ros_pkg
+	url = https://github.com/mtbthebest/ros_pkg.git
